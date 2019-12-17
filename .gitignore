@@ -1,2 +1,3 @@
 *.txt
 *.log
+.ipynb_checkpoints
